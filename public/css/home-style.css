@@ -1,5 +1,6 @@
-.main{
+#main{
     padding-top: 50px;
+    display: block;
 }
 .container1 {
     height: auto;
